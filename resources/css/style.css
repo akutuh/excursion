@@ -23,3 +23,8 @@ body {
     color: white;
     text-align: center;
 }
+
+footer {
+    color: gray;
+    text-align: right;
+}
